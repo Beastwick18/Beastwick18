@@ -8,3 +8,6 @@
 ![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+
+# 📊 Stats
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=beastwick18&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" alt=">Joel's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastwick18&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" />|
