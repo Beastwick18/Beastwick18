@@ -2,15 +2,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/13501575/236774557-cb3cb8bc-49f8-4e40-be6b-45c4a8b58396.gif" style="border-radius:50%" width=200 heigh=200 />
   <div id="badges">
-    <a href="https://www.linkedin.com/in/steven-culwell-5b92b3239/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://beastwick18.github.io">
-      <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-    <a href="mailto:bradculwell@pm.me">
-      <img src="https://img.shields.io/badge/Email-A33?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/steven-culwell-5b92b3239/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://beastwick18.github.io"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+    <a href="mailto:bradculwell@pm.me"><img src="https://img.shields.io/badge/Email-A33?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   </div>
   <h1>
     Steven Culwell
