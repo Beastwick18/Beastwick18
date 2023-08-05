@@ -15,7 +15,7 @@
 </div>
 
 # ⚙️ Languages and Tools
-<div>
+<div align="center">
   <!-- C !--> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="40" height="40"/>
   <!-- C++ !--> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++"  alt="C++" width="40" height="40"/>
 
@@ -40,4 +40,7 @@
 </div>
 
 # 📊 Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=beastwick18&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" alt=">Steven's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastwick18&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=beastwick18&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" alt=">Steven's github stats" /> !-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastwick18&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" />
+</div>
