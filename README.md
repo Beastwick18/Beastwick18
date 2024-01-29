@@ -6,6 +6,10 @@
     <a href="https://beastwick18.github.io"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
     <a href="mailto:bradculwell@pm.me"><img src="https://img.shields.io/badge/Email-A33?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   </div>
+  <div id="stats">
+    <img src="https://komarev.com/ghpvc/?username=Beastwick18&color=ff69b4&abbreviated=true" alt="watching_count" />
+    <img src="https://img.shields.io/github/stars/Beastwick18?label=Stars" alt="stars">
+  </div>
   <h1>
     Steven Culwell
   </h1>
