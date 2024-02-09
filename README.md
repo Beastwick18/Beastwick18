@@ -46,5 +46,8 @@
 # 📊 Stats
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=beastwick18&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" alt=">Steven's github stats" /> !-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastwick18&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Beastwick18&theme=tokyonight&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beastwick18&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beastwick18&hide_border=true&card_width=338&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastwick18&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" /> -->
 </div>
