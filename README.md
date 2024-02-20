@@ -8,7 +8,7 @@
   </div>
   <div id="stats">
     <img src="https://komarev.com/ghpvc/?username=Beastwick18&color=ff69b4&abbreviated=true" alt="watching_count" />
-    <img src="https://img.shields.io/github/stars/Beastwick18?label=Stars" alt="stars">
+    <img src="https://img.shields.io/github/stars/Beastwick18?style=flat&label=Stars&color=orange" alt="stars">
   </div>
   <h1>
     Steven Culwell
