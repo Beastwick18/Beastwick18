@@ -13,9 +13,6 @@
   <h1>
     Steven Culwell
   </h1>
-  <p>
-    I'm a student currently enrolled at The University of Texas at Arlington.
-  </p>
 </div>
 
 # ⚙️ Languages
