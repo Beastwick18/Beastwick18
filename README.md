@@ -1,5 +1,8 @@
 
 <div align="center">
+  <h1>
+    Steven Culwell
+  </h1>
   <img src="https://user-images.githubusercontent.com/13501575/236774557-cb3cb8bc-49f8-4e40-be6b-45c4a8b58396.gif" style="border-radius:50%" width=200 heigh=200 />
   <div id="badges">
     <a href="https://www.linkedin.com/in/sbculwell/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -10,9 +13,6 @@
     <img src="https://komarev.com/ghpvc/?username=Beastwick18&color=ff69b4&abbreviated=true" alt="watching_count" />
     <img src="https://img.shields.io/github/stars/Beastwick18?style=flat&label=Stars&color=orange" alt="stars">
   </div>
-  <h1>
-    Steven Culwell
-  </h1>
 </div>
 
 # ⚙️ Languages
