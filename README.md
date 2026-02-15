@@ -7,7 +7,7 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/sbculwell/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://beastwick18.github.io"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-    <a href="mailto:bradculwell@pm.me"><img src="https://img.shields.io/badge/Email-A33?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+    <a href="mailto:bradculwell@pm.me"><img src="https://img.shields.io/badge/Email-A33?style=for-the-badge&logo=protonmail&logoColor=white&color=purple" alt="Email Badge"/></a>
   </div>
   <div id="stats">
     <img src="https://komarev.com/ghpvc/?username=Beastwick18&color=ff69b4&abbreviated=true" alt="watching_count" />
@@ -18,11 +18,13 @@
 # ⚙️ Languages
 <!-- <div align="center"> !-->
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=.net&logoColor=white&color=purple)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=blue)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
